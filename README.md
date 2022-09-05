@@ -17,3 +17,7 @@ A dataframe containing all pokemon moves up to and including generation 8.
 
 The columns include:
 MOVE	TYPE	CATEGORY	PP	POWER	ACCURACY	FLAVOUR
+
+# Permissions
+
+I am the original author of all this code, please contact me if you wish to use it for your own projects: woodingben@gmail.com
